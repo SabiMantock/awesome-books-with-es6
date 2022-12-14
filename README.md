@@ -162,12 +162,6 @@ Example command:
 - Twitter: [@IamSabiMantock](https://twitter.com/IamSabiMantock)
 - LinkedIn: [Sabi Mantock](https://linkedin.com/in/sabi-mantock/)
 
-👤 **Author-2**
-
-- GitHub: [@Athaliah8](https://github.com/Athaliah8)
-- Twitter: [@Athaliah](https://twitter.com/AthaliahLi)
-- LinkedIn: [@Athaliahli](https://www.linkedin.com/in/athaliah-li-56217324a/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
